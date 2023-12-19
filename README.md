@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhammadShariqTanveer
+
 - 🌱 I’m currently learning Javascript, Mongodb, Express, React and Node.
 - 💬 Ask me about Html, Css, BootStrap, JavaScript
 - 📫 How to reach me shariqraja212@gmail.com
