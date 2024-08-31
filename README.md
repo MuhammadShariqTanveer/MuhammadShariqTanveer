@@ -2,12 +2,12 @@
 ![image](https://github.com/MuhammadShariqTanveer/MuhammadShariqTanveer/assets/136991351/3a6d4757-8007-4dee-b059-b12e403ad46e)
  <h2 align="center">👋 Hi, I’m Muhammad Shariq Tanveer</h2>
  <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammadShariqTanveer" alt="MuhammadShariqTanveer" /></a> </p>
 
-  🏅 Projects :
+  ##🏅 Projects :
   
-   * **Weather App()React + Tailwind :**  🔗https://shariqreactweatherapp.surge.sh/
+   * **Weather App(React + Tailwind) :**  🔗https://shariqreactweatherapp.surge.sh/
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammadShariqTanveer" alt="MuhammadShariqTanveer" /></a> </p>
 
 - 🔭 I’m currently working on **languages**
   
