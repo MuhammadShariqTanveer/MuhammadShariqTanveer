@@ -7,7 +7,7 @@
   
    * **Weather App(React + Tailwind) :** 🔗https://shariqreactweatherapp.surge.sh/
    * **Todo App(React + Tailwind) :** 🔗https://shariqassignment3react.surge.sh/
-   * **Image Gallery Modal(React + Tailwind) :**🔗https://assignment2_shariq.surge.sh/
+   * **Image Gallery Modal(React + Tailwind) :** 🔗https://assignment2_shariq.surge.sh/
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammadShariqTanveer" alt="MuhammadShariqTanveer" /></a> </p>
